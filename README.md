@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👨🏻‍💻 About Me
+<p align="justify">Hi, my name is Brian Rahmaditya, usually called Brian. I am an undergraduate student of the telecommunications engineering from Semarang State Polytechnic. I have an interest in further studies and a career in the field of telecommunications and networks.  
+  
+- 🔭 I'm currently studying at Semarang State Polytechnic
+- 🌱 I’m currently learning about computer network design and internet of things
+- 📫 How to reach me: Just contact me on my social media
+- ⚡ Fun fact: Engineering college is fun :)
 
-<!--
-**brianrahma/brianrahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Reach Me On
+[![Instagram](https://img.shields.io/badge/Instagram-brianrahm_-purple?style=flat&logo=instagram)](https://www.instagram.com/brianrahm_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brianrahmaditya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-rahmaditya-3a703918b/)
+[![Twitter](https://img.shields.io/badge/Twitter-rahmadityabrian-blue?style=flat&logo=twitter)](https://twitter.com/RahmadityaBrian)
 
-Here are some ideas to get you started:
+## 📊 Statistic
+<p align="left">
+<a href="https://github.com/briarahma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brianrahma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brianrahma&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
