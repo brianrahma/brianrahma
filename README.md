@@ -8,8 +8,9 @@
 
 ## 🌐 Reach Me On
 [![Instagram](https://img.shields.io/badge/Instagram-brianrahm_-purple?style=flat&logo=instagram)](https://www.instagram.com/brianrahm_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brianrahmaditya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-rahmaditya-3a703918b/)
-[![Twitter](https://img.shields.io/badge/Twitter-rahmadityabrian-blue?style=flat&logo=twitter)](https://twitter.com/RahmadityaBrian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BrianRahmaditya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-rahmaditya-3a703918b/)
+[![Twitter](https://img.shields.io/badge/Twitter-RahmadityaBrian-blue?style=flat&logo=twitter)](https://twitter.com/RahmadityaBrian)
+[![Facebook](https://img.shields.io/badge/Facebook-BrianRahmaditya-blue?style=flat&logo=facebook)](https://www.facebook.com/brian.rahmaditya)
 
 ## 📊 Statistic
 <p align="left">
