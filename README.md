@@ -1,10 +1,10 @@
 ## 👨🏻‍💻 About Me
-<p align="justify">Hi, my name is Brian Rahmaditya, usually called Brian. I am an undergraduate student of the telecommunications engineering from Semarang State Polytechnic. I have an interest in further studies and a career in the field of telecommunications and networks.  
+<p align="justify">Hi, my name is Brian Rahmaditya, usually called Brian. I am an undergraduate student of the telecommunications engineering from Semarang State Polytechnic. I have an interest in further studies and a career in the field of telecommunications and computer network.  
   
 - 🔭 I'm currently studying at Semarang State Polytechnic
-- 🌱 I’m currently learning about computer network design and IT support & networking
+- 🌱 I’m currently learning about computer network and network security
 - 📫 How to reach me: Just contact me on my social media
-- ⚡ Fun fact: Engineering college is fun :)
+- ⚡ Fun fact: VISCA BARCA!!!
 
 ## 🌐 Reach Me On
 [![Instagram](https://img.shields.io/badge/Instagram-brianrahm_-purple?style=flat&logo=instagram)](https://www.instagram.com/brianrahm_/)
